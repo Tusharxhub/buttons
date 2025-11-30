@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     url: "https://buttons.ibelick.com",
     images: [
       {
-        url: "https://buttons.ibelick.com/opengraph-image.jpg",
+        url: "https://buttons-umber.vercel.app/opengraph-image.jpg",
         alt: "Tailwind CSS button collection - Click-to-copy integration",
       },
     ],
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     site: "@ibelick",
     images: [
       {
-        url: "https://buttons.ibelick.com/opengraph-image.jpg",
+        url: "https://buttons-umber.vercel.app/opengraph-image.jpg",
         alt: "Tailwind CSS button collection - Click-to-copy integration",
       },
     ],
