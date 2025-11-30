@@ -5,7 +5,7 @@ import { CardComponent } from "@/components/app/card-component";
 const ButtonGithubStar = () => {
   return (
     <a
-      href="https://github.com/ibelick/buttons"
+      href="https://github.com/Tusharxhub/buttons"
       target="_blank"
       className="group relative inline-flex cursor-pointer items-center rounded-md bg-neutral-950 px-3 py-1 text-sm text-white shadow-lg shadow-neutral-500/20 transition active:scale-[.95]
     "
