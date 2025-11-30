@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     description:
       "Discover a collection of Tailwind CSS buttons designed to enhance your website's look. Easy to integrate with a copy-paste, no js.",
     type: "website",
-    url: "https://buttons.ibelick.com",
+    url: "https://buttons-umber.vercel.app/",
     images: [
       {
         url: "https://buttons-umber.vercel.app/opengraph-image.jpg",
